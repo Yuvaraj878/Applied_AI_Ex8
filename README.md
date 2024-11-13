@@ -57,6 +57,6 @@ while True:
 ```
 
 ## OUTPUT:
-![output](./output/o1.png)
+![output](./output/1.png)
 ## RESULT:
 Thus, the python program for Speech Recognition is implemented successfully.
